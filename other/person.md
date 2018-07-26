@@ -1,7 +1,7 @@
 ## 个人成长与职业规划
 ---
 
-### 个人成长
+### 技术提升（高P）
 
 * [程序员不能错过的28份技术知识图谱，你的进阶路上必备](https://mp.weixin.qq.com/s/trcK2J_a8h3C4fqPaKSc6g)
 * [8年开发经验，网易Java开发工程师的成长感悟](http://mp.weixin.qq.com/s/Ck71qeyACk0Zn5j3ro87YQ)
@@ -13,9 +13,14 @@
 * [免试晋升为研究员，他在阿里十年经历了什么？](https://mp.weixin.qq.com/s/xD7hofy2vhmjvEMp3Ip9GQ)
 * [职场“35岁危机”：这是我看过的最棒建议](https://mp.weixin.qq.com/s/TtOhnf7OcEwMOL5wc3DWqw)
 * [论三年内快速成长为一名技术专家](https://mp.weixin.qq.com/s/k6QeIzq3uL1pmmdnQB2AFg)
+* [快速成长为一名技术专家](https://mp.weixin.qq.com/s/a3X1J-TkJ3ThTdc0YCyIKw)
+* [美丽联合集团VP顶天：总结这一年，我们在技术上的变与不变](https://mp.weixin.qq.com/s/zMneLwJkhJ0jA96cIzxLKw)
+* [架构经验老司机的技术选型哲学](https://mp.weixin.qq.com/s/PJeCdbpILQiOc9gpQEQ9rA)
+* [一个NB架构师的必备素质](https://mp.weixin.qq.com/s/CCYJ4TmAM5ht_DSZMWB5ow)
+* [你写的代码，是别人的噩梦吗？](https://mp.weixin.qq.com/s/6ePpYgwm8t1EY2PtFOX5rg)
 
 ---
-### 转型 --> 管理
+### 技术（P） --> 管理（M）
 
 * [从开发人员到管理者，我学到了什么](http://www.infoq.com/cn/news/2015/08/developer-to-manager)
 * [从纯技术到技术管理，那些跌宕起伏的转型经历](http://mp.weixin.qq.com/s/FWrhT2jl1TUq80d8gNinww)
@@ -30,6 +35,32 @@
 * [技术人员的发展之路](https://mp.weixin.qq.com/s/A2v0gGIl09X6Bwz9L060aw)
 * [从技术 Leader 到产品负责人](https://mp.weixin.qq.com/s/Yx1fXO9RfnLeBGZg_P-g3g)
 * [蘑菇街顶天：真诚与尊重是技术团队的管理要点](https://mp.weixin.qq.com/s/EHh4D22LG-BoksppsZZ2Tg)
+* [年轻技术管理者的涅槃重生之路](https://mp.weixin.qq.com/s/lkDiaEbFKAGcxeq8WLF3hg)
+* [想从技术转管理？这些坑你可要注意了！](https://mp.weixin.qq.com/s/Xq4zjEzaRGGOjghUHxLYFw)
+* [双面管理者：雷霆手段，菩萨心肠](https://mp.weixin.qq.com/s/LZ5mUUv1jnb1TAvpQs_F3Q)
+* [作为部门领导，自己天天撸代码忙成狗，下属却没事干，怎么办？](https://mp.weixin.qq.com/s/rSbFfzVT10OLwJy0QOaGpQ)
+
+
+---
+### 软能力
+
+* [工作10年才懂的道理，早知道职位比现在高两级](https://mp.weixin.qq.com/s/ejD1susXEn8uncmAusPW2w)
+* [程序员怎样快速成长？](https://mp.weixin.qq.com/s/TPViDjviDPuitjyaTf9I3g)
+* [阿里P9技术专家：程序员的技术实力是什么？](https://mp.weixin.qq.com/s/h-32WUi1far1WAchf-X_PQ)
+* [成为一名优秀架构师有标准吗？这12点或许能带给你一些启发](https://mp.weixin.qq.com/s/3obF9ltx_l28ZFU1z3jcCw)
+
+---
+### 团队
+* [技术牛人告诉你，什么才是真正的工程师文化？](https://mp.weixin.qq.com/s/WIWclRDVTcpUICwSS7lpIg)
+* [最出色的员工往往最先离职，原因却不是因为钱](https://mp.weixin.qq.com/s/lYqPNQ2ngfiQlEBVNnwXhA)
+* [如果你是技术leader，团队成员不停向你抱怨时你会怎么做？](https://mp.weixin.qq.com/s/gKbMkreF50w0u5m4BuFjZA)
+* [张雪峰：创业团队极速发展过程中的分分合合](https://mp.weixin.qq.com/s/pRlzJQ4SEmkKPBX52EmZLA)
+
+---
+### HR技能
+
+* [从管人到管人才，一个年薪80w的HRBP到底是什么样？](https://mp.weixin.qq.com/s/FqYlDf0mz3-AOgkjT3ittg)
+* [阿里Job model](http://www.360doc.com/content/17/0705/12/35463569_669039203.shtml)
 
 ---
 ### 思考
@@ -40,3 +71,6 @@
 * [7 年老员工的 6 点离职忠告：浮躁的年轻人请你读完](https://mp.weixin.qq.com/s/Az9y8HzdpGOOfR4JWcIVkA)
 * [阿里前资深副总裁邓康明：BAT之后，人与组织的未来](https://mp.weixin.qq.com/s/42wmdg0VqcYWSgNP9iIGpg)
 * [一名7年总监的6点离职忠告](https://mp.weixin.qq.com/s/n5BkGFOFtS2tMcKMqi5psw)
+* [程序员增加收入实用指南](https://mp.weixin.qq.com/s/ZcxxugWNpzL_WHT8GfVGZQ)
+* [程序员必看—程序员如何高效提升自己？](https://mp.weixin.qq.com/s/BnkmICaK2duAu6URlNuKLg)
+

@@ -1,7 +1,7 @@
 ## 常用软件工具
 ---
 
-* [Lombok安装](http://www.blogjava.net/fancydeepin/archive/2012/07/12/382933.html)
+* [类反编译 --- JD-GUI](http://www.pc6.com/mac/152875.html)
 * [HTTPS 抓包工具-----charles](http://blog.vetcafe.net/2013/12/charlesproxyiphonehttps.html)
 * [自动生成Restful api接口规范文档-----swagger](swagger.md)
 * [模拟构造HTTP请求-----postman](https://www.getpostman.com/apps)
@@ -10,6 +10,7 @@
 * [服务器界面式管理终端-------secureCRT]()
 * [编码工具-------intellij idea](intellij.md)
 * [原型设计工具-------Axure](https://www.axure.com.cn/)
+* [亿图-------EdrawMax]()
 
 
 mac系统

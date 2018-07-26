@@ -12,6 +12,7 @@
 	* [从淘宝到云端的高可用架构演进](http://mp.weixin.qq.com/s/_n1zSJ0uv9gNctXD9tyGsg)
 	* [阿里研究员玄难：如何做电商业务中台](http://mp.weixin.qq.com/s/WBdSWR9N6sp-UooewzVa3Q)
 	* [解密阿里巴巴高可用架构技术——“异地多活”](http://mp.weixin.qq.com/s/Osggn2PFSySsrqCyW2Dtmw)
+	* [揭秘2017双11背后的网络－双11的网络产品和技术概览](https://mp.weixin.qq.com/s/BDLPoresSJJ_uv2PBvYsYA)
 * ###### 1号店
 	* [1号店大型电商微服务实践](http://mp.weixin.qq.com/s/_2Rw-4h4F4843c89tz-Z2Q)
 	* [1号店交易系统架构如何向「高并发高可用」演进](http://mp.weixin.qq.com/s/lzRZNWMx2KxeIyKXggl58w)
@@ -27,10 +28,14 @@
 	* [苏宁六年企业IT架构的演进之路](https://mp.weixin.qq.com/s/kBblUtVUvWDFDy9cqrUH5Q)
 * ###### 库存	
 	* [库存系统难破题？京东到家来分享](https://mp.weixin.qq.com/s/aIzdMG1y0a5cWOS4lx6IuQ)
-* [订单系统分库分表实践](http://mp.weixin.qq.com/s/kauO45XNQaV40hxmSc3BpA)
-* [盘点电商大战背后的技术力量支撑](http://mp.weixin.qq.com/s/01rmXXkEz-cQaLBe7eGeQA)
-* [乐视电商云的整体架构与技术实现](http://mp.weixin.qq.com/s/gbVMGGneiSD7mhXtTH6QOg)
-* [海淘平台架构实践](http://mp.weixin.qq.com/s/DMee9gp70ReIR8jRRhLYCA)
+	* [京东到家库存系统架构设计](https://mp.weixin.qq.com/s/-9fvfJ6KT3xSRQZnlTBBhA)
+* ###### 其它
+	* [订单系统分库分表实践](http://mp.weixin.qq.com/s/kauO45XNQaV40hxmSc3BpA)
+	* [盘点电商大战背后的技术力量支撑](http://mp.weixin.qq.com/s/01rmXXkEz-cQaLBe7eGeQA)
+	* [乐视电商云的整体架构与技术实现](http://mp.weixin.qq.com/s/gbVMGGneiSD7mhXtTH6QOg)
+	* [海淘平台架构实践](http://mp.weixin.qq.com/s/DMee9gp70ReIR8jRRhLYCA)
+	* [电商系统之订单系统](https://mp.weixin.qq.com/s/cV-iDCkrTx86TKbHA3U2Sw)
+	* [交易系统 - 领域驱动设计浅析](https://mp.weixin.qq.com/s/CJmOaxTv0Ksll3CvCIXcnA)
 
 
 ---
@@ -41,6 +46,7 @@
 	* [余额宝技术架构及演进](http://mp.weixin.qq.com/s/D3MAYfr4BpX8dONUfJ7LhQ)
 	* [蚂蚁金服CTO程立：金融级分布式交易的技术路径](http://mp.weixin.qq.com/s/RFkYydSU_IuAIbNqcMIoRw)
 	* [蚂蚁金服11.11：支付宝和蚂蚁花呗的技术架构及实践](http://mp.weixin.qq.com/s/UgOmJ2R82D9xTcISAFbxtg)
+	* [完整的支付系统整体架构！](https://mp.weixin.qq.com/s/O1akcIZ9ZMngQr-UzJ22Fg)
 * ###### 去哪
 	* [去哪儿网支付系统架构演进全历程](http://mp.weixin.qq.com/s/9V1VC2Fe9HdGzdvQ2A7wiA)
 	* [基于文档模型的交易系统](https://mp.weixin.qq.com/s/JT_hkmY8HcIF8UUvPa228A)
@@ -52,17 +58,23 @@
 	* [点融支付系统架构的演进](https://mp.weixin.qq.com/s/823bGuLkU0uX-vHUYkr5jg)
 	* [易宝支付日志中心平台建设](https://mp.weixin.qq.com/s/Lsw_Ygyp50IJnqjzHxpGWg)
 	* [高并发支付场景分析及设计](https://mp.weixin.qq.com/s/syKnlmu_noyp0C4LeGp9Tw)
+	* [中小型研发团队架构实践之企业支付网关](https://mp.weixin.qq.com/s/rfeFWOq--0FXRa6r1eritQ)
+	* [支付平台架构设计评审核心要点与最佳实践](https://mp.weixin.qq.com/s/c-jlnScSTLSGNFLlNBWeow)
+	* [解密支付平台建设资金底线防火墙的杀手级设计方案](https://mp.weixin.qq.com/s/G_unHPP6P3q0guZR8x0UMg)
 
 
 ---
 #### 物流
 
+* ###### 菜鸟
+	* [谈笔1000亿的生意：揭秘菜鸟全球智能仓配技术实践](https://mp.weixin.qq.com/s/igH0UwkvP9WiVTkFX-IrLA)
 * ###### 京东
 	* [京东物流系统架构演进中的最佳实践](http://mp.weixin.qq.com/s/2HVkQCaXQQEQIqTrJZ01wA)
 	* [大数据构建京东智慧物流](https://mp.weixin.qq.com/s/G1l3lRZezV6_h-4CpdofvA)
 * ###### 顺丰
 	* [顺丰IT基础架构运维的焦虑与进化](https://mp.weixin.qq.com/s/vK2VRyLtcH1qYtO1VbllOw)
-* [大数据在物流企业中的应用](https://mp.weixin.qq.com/s/X-0qIcxnGhV_PTnXTR1IuA)
+* ###### 其它
+	* [大数据在物流企业中的应用](https://mp.weixin.qq.com/s/X-0qIcxnGhV_PTnXTR1IuA)
 
 
 ---
@@ -80,6 +92,7 @@
 	* [秒杀系统架构分析与实战](http://mp.weixin.qq.com/s/1BnygFm6ukEZcpakyEi9-Q)
 	* [秒杀系统的架构解决之道](http://mp.weixin.qq.com/s/58y6YE2tQnQCugNJu9xOGA)
 	* [揭秘红包场景下的高性能本地存储架构设计](http://mp.weixin.qq.com/s/N9Eha8lsy0N7PeXQxOgqAA)
+	* [秒杀架构实践](https://mp.weixin.qq.com/s/OAN9DXmdYaxCUbt6cOn9cw)
 
 ---
 
@@ -141,13 +154,24 @@
 	* [社区稳定性之降级](社区稳定性之降级.md)
 	* [社区计数器](案例-计数器.md)
 	* [回复的楼层号如何控制并发？](案例-贴子楼层号.md)
+* ###### timeline
+	* [几个大型网站的Feeds(Timeline)设计简单对比](https://mp.weixin.qq.com/s/MFFJtRixz9Cr3WFh33h__Q)
+	* [《深入分布式缓存---第12章，社交场景架构进化：从数据库到缓存》]()
+	* [《深入分布式缓存---第13章，缓存在社交网络Feed系统中的架构实践》]()
+
+
 
 ---
 #### 互联网金融
 
-* [区块链技术与微服务架构之间有什么关系](http://mp.weixin.qq.com/s/9aFoptoI88n7hgZtxOe4Aw)
-* [《区块链》都火了两年多了，你还不知道它是什么？](https://mp.weixin.qq.com/s/BRrrhe1xFpDTp2DG6Khpkg)
-* [200 行代码实现一个简单的区块链](http://mp.weixin.qq.com/s/cqi6mNVh2ZFZdNFIAQynjw)
+* ###### 区块链
+	* [区块链技术与微服务架构之间有什么关系](http://mp.weixin.qq.com/s/9aFoptoI88n7hgZtxOe4Aw)
+	* [《区块链》都火了两年多了，你还不知道它是什么？](https://mp.weixin.qq.com/s/BRrrhe1xFpDTp2DG6Khpkg)
+	* [200 行代码实现一个简单的区块链](http://mp.weixin.qq.com/s/cqi6mNVh2ZFZdNFIAQynjw)
+	* [通俗讲解比特币的原理及运作机制](https://mp.weixin.qq.com/s/-2jXpGcZEF37ex0jiIe3DA)
+	* [什么是区块链？](https://mp.weixin.qq.com/s/9kgxbjntTJiWDsmc856V-A)
+* ###### 宜人贷
+	* [从宜人贷系统架构看互联网高并发对金融系统架构的挑战](https://mp.weixin.qq.com/s/GZsFhq7-3ZhRiyNodbv0lg)
 * [如何构建用于检测信用卡诈骗的机器学习模型？](http://mp.weixin.qq.com/s/aMQ6gpbkMn57WNKDL0OlOQ)
 * [智能问答在金融领域中的实践与应用](http://mp.weixin.qq.com/s/4a8hGw-E73FVoGsAW0UWHQ)
 * [微博众筹的架构设计](http://mp.weixin.qq.com/s/3GZaaLHsMSDFTJ0n7hzw1A)
@@ -170,12 +194,20 @@
 	* [一个创业公司的API网关落地实践](http://www.infoq.com/cn/news/2017/03/Startups-API-practice)
 
 ---
-#### 直播 Live
+#### 直播 Live、客服
 
-* [淘宝直播在双11的互动实践](http://mp.weixin.qq.com/s/WcHvukClRSLA4KczRjDVaw)
-* [常见的几种直播连麦方案](http://mp.weixin.qq.com/s/Ej4QHRvF7e0i5d78hETrwg)
-* [如何开发10万在线级别的直播弹幕技术？](http://mp.weixin.qq.com/s/U4SKJbXSkd6JOx0R7yK-5g)
-* [视频私有云实战：基于 Docker 构建点播私有云平台](http://mp.weixin.qq.com/s/OXzYMM14ag2k9sh9WidV2w)
+* ###### IM
+	* [现代IM系统中消息推送和存储架构的实现（Timeline）](https://mp.weixin.qq.com/s/sYRchf1-8ZpD7Q3UYx_KLQ)
+* ###### 答题
+	* [直播答题系统在技术上难实现吗？挑战有多大？](https://mp.weixin.qq.com/s/Tp7K4g3DxmEiU0iYrmR8Mw)
+* ###### 智能客服
+	* [阿里千亿级购物节背后，淘宝智能客服架构演进之路](https://mp.weixin.qq.com/s/tiGxIeY9sDRdbMvKxcOS7w)
+* ###### 其它
+	* [淘宝直播在双11的互动实践](http://mp.weixin.qq.com/s/WcHvukClRSLA4KczRjDVaw)
+	* [常见的几种直播连麦方案](http://mp.weixin.qq.com/s/Ej4QHRvF7e0i5d78hETrwg)
+	* [如何开发10万在线级别的直播弹幕技术？](http://mp.weixin.qq.com/s/U4SKJbXSkd6JOx0R7yK-5g)
+	* [视频私有云实战：基于 Docker 构建点播私有云平台](http://mp.weixin.qq.com/s/OXzYMM14ag2k9sh9WidV2w)
+
 
 ---
 #### 共享单车
@@ -193,10 +225,6 @@
 * [去哪儿网机票搜索系统的高并发架构设计](http://mp.weixin.qq.com/s/HErVN8x-s6MzgW-3XMvvAA)
 * [聊聊基于Lucene的搜索引擎核心技术实践](https://mp.weixin.qq.com/s/uIlNuutCRVPrZeJ_u1AtnA)
 
----
-#### 缓存相关
-
-* [携程开源其Redis多数据中心解决方案XPipe](http://mp.weixin.qq.com/s/YhrJprLWjoZa2tU3qY8XZw)
 
 ---
 #### 系统稳定性
@@ -212,6 +240,33 @@
 * ###### 微博
 	* [新浪微博混合云架构如何轻松应对热点事件的高峰值流量](https://mp.weixin.qq.com/s/6tSbQFgSff07VIZRHpfTQg)
 
+---
+#### 风控
+
+* ###### 金融
+	* [互联网小贷：一个从繁盛到衰退，又在管制中蜕变成长的类金融机构](https://mp.weixin.qq.com/s/X634-KXzwBLkrmrT_OTxbQ)
+
+---
+#### 日志系统
+* [百亿级日志系统架构设计及优化](https://mp.weixin.qq.com/s/AZ_ucwyF1v7KelhfxQRLkQ)
+
+
+---
+#### 爬虫
+
+* [搭建一个基于Java的分布式爬虫系统](https://mp.weixin.qq.com/s/E0xEqPSbi5IEYV-IFfn5vw)
+* [一次架构设计心得体会](https://mp.weixin.qq.com/s/-3AmP_yMFY75Bdnke4Vmzw)
+
+
+---
+#### 杂项
+
+* ###### 会员、注册、登录
+	* [单点登录怎么实现？](https://mp.weixin.qq.com/s/ZT1B6ziSSRW41FN33xA3ZA)
+	* [深入了解Token认证的来龙去脉](https://mp.weixin.qq.com/s/DkwfpZibKdllfm0lpxukWg)
+* ###### 短信
+	* [如何设计短信验证码防刷机制](https://blog.csdn.net/u011277123/article/details/77519910)
+	* [5种常见的短信验证码防刷策略](http://www.woshipm.com/pd/580976.html)
 
 ---
 #### 其它
